@@ -1,0 +1,4 @@
+{
+    "typescript.inlayHints.variableTypes.suppressWhenTypeMatchesName": false,
+    "javascript.inlayHints.variableTypes.suppressWhenTypeMatchesName": false
+}
